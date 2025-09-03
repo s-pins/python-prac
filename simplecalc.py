@@ -18,3 +18,5 @@ else:
     print("Operation unknown")
 
 print(f"{num1} {action} {num2} = {result}")
+
+print(f"{num1} {action} {num2} = {result}")
