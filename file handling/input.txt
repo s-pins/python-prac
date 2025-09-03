@@ -1,0 +1,4 @@
+Hello, Welcome to my program!, here, we are learning about file handling in Python.
+Python is a versatile language. It supports multiple programming paradigms.
+File handling is an essential part of any programming language.
+In this program, we will explore how to read and write files in Python.
